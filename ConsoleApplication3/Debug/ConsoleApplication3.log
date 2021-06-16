@@ -1,0 +1,13 @@
+﻿  ConsoleApplication3.cpp
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(98): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(103): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(658): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(698): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(725): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(743): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(778): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(785): warning C4018: '<': signed/unsigned mismatch
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(881): warning C4101: 'a': unreferenced local variable
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(45): warning C4715: 'Helper::StringCompare': not all control paths return a value
+D:\Visual Studio Programs\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(316): warning C4715: 'DLLADT::Search': not all control paths return a value
+  ConsoleApplication3.vcxproj -> D:\Visual Studio Programs\ConsoleApplication3\Debug\ConsoleApplication3.exe

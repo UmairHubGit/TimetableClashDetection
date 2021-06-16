@@ -1,0 +1,54 @@
+279 Ali Artificial Intelligence CS-C Computer Networks CS-B on Tuesday 8:00 a.m.
+320 Ali Artificial Intelligence CS-C Operating Systems Lab CS-B2 on Tuesday 8:00 a.m.
+664 Ali Technical & Business Writing CS-F Theory of Automata CS-A on Monday 9:30 a.m.
+58 Ali Artificial Intelligence CS-B Software Engineering CS-B on Tuesday 9:30 a.m.
+355 Ali Advanced Programming CS Theory of Automata CS-A on Monday 9:30 a.m.
+416 Ali Artificial Intelligence CS-E Technical & Business Writing CS-B on Tuesday 3:30 p.m.
+422 Ali Artificial Intelligence CS-E Technical & Business Writing CS-B on Tuesday 3:30 p.m.
+567 Ali Operating Systems Lab CS-C1 Artificial Intelligence CS-C on Thursday 8:00 a.m.
+622 Ali Artificial Intelligence CS-E Technical & Business Writing CS-B on Tuesday 3:30 p.m.
+40 Ali Network Security CS Psychology CS on Monday 2:00 p.m.
+887 Ali Database Systems CS-A Numerical Methods CS-B on Monday 9:30 a.m.
+146 Ali Human Computer Interaction CS-A Operating Systems CS-B on Tuesday 2:00 p.m.
+156 Ali Object Oriented Analysis & Design Lab CS-B1 Technical & Business Writing CS-C on Monday 8:00 a.m.
+365 Ali Design & Analysis of Algorithms CS-C Object Oriented  Analysis & Design CS-A on Monday 11:00 a.m.
+370 Ali Design & Analysis of Algorithms CS-B Human Computer Interaction CS-D on Tuesday 2:00 p.m.
+392 Ali Technical & Business Writing CS-F Theory of Automata CS-A on Monday 9:30 a.m.
+403 Ali Software for Mobile Devices CS-C Technical & Business Writing CS-F on Monday 9:30 a.m.
+407 Ali Design & Analysis of Algorithms CS-B Human Computer Interaction CS-D on Tuesday 2:00 p.m.
+457 Ali Artificial Intelligence CS-B Web Programming CS-A on Tuesday 9:30 a.m.
+570 Ali Object Oriented  Analysis & Design CS-A Theory of Automata CS-B on Monday 11:00 a.m.
+586 Ali Artificial Intelligence CS-E Technical & Business Writing CS-B on Tuesday 3:30 p.m.
+631 Ali Modern Politics & Government CS Comp. Org. & Assembly L. CS-A on Wednesday 11:00 a.m.
+702 Ali Modern Politics & Government CS Comp. Org. & Assembly L. CS-A on Wednesday 11:00 a.m.
+1059 Ali Object Oriented Programming CS-E Calculus and Ana. Geometry CS-G on Wednesday 11:00 a.m.
+971 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+982 Ali Comm & Presentation Skills Lab CS-C2 Object Oriented Programming Lab CS-E2 on Monday 8:00 a.m.
+1000 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1006 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1043 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1051 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1114 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1126 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1135 Ali Comm & Presentation Skills Lab CS-A2 Pakistan Studies CS-D on Tuesday 12:30 p.m.
+1151 Ali Comm & Presentation Skills Lab CS-A2 Pakistan Studies CS-D on Tuesday 12:30 p.m.
+1156 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1163 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1170 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1171 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1179 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+1187 Ali Comm & Presentation Skills Lab CS-F1 Digital Logic Design CS-A on Monday 9:30 a.m.
+1256 Ali Comm & Presentation Skills Lab CS-F2 Pakistan Studies CS-F on Tuesday 3:30 p.m.
+270 Ali Computer Networks Lab CS-A2 Object Oriented Analysis & Design Lab CS-A2 on Friday 9:30 a.m.
+652 Ali Technical & Business Writing CS-F Theory of Automata CS-A on Monday 9:30 a.m.
+736 Ali Modern Politics & Government CS Comp. Org. & Assembly L. CS-A on Wednesday 11:00 a.m.
+71 Ali Data Science CS-B Professional Issues in IT CS-C on Tuesday 2:00 p.m.
+179 Ali Object Oriented  Analysis & Design CS-A Theory of Automata CS-B on Monday 11:00 a.m.
+298 Ali Data Science CS-B Human Computer Interaction CS-A on Tuesday 2:00 p.m.
+666 Ali Data Science CS-B Operating Systems CS-B on Tuesday 2:00 p.m.
+889 Ali Database Systems Lab CS-A1 Operating Systems Lab CS-D1 on Thursday 8:00 a.m.
+387 Ali Design & Analysis of Algorithms CS-B Operating Systems CS-B on Tuesday 2:00 p.m.
+671 Ali French Language CS-B Software for Mobile Devices CS-B on Monday 3:30 p.m.
+17 Ali Digital Image Processing CS Web Programming CS-B on Thursday 11:00 a.m.
+235 Ali Human Computer Interaction CS-A Professional Issues in IT CS-C on Tuesday 2:00 p.m.
+Total Clashes: 53
